@@ -1,0 +1,272 @@
+[
+ {
+   "name": "Indonesia",
+   "area": 14953126,
+   "production": 256829530.7,
+   "yield": 171756
+ },
+ {
+   "name": "Malaysia",
+   "area": 5135576,
+   "production": 92500000,
+   "yield": 180116
+ },
+ {
+   "name": "Nigeria",
+   "area": 4907531,
+   "production": 12608938.08,
+   "yield": 25693
+ },
+ {
+   "name": "Thailand",
+   "area": 984060,
+   "production": 19061392,
+   "yield": 193702
+ },
+ {
+   "name": "Colombia",
+   "area": 487076,
+   "production": 8030241.91,
+   "yield": 164866
+ },
+ {
+   "name": "Côte d'Ivoire",
+   "area": 400000,
+   "production": 2800000,
+   "yield": 70000
+ },
+ {
+   "name": "Ghana",
+   "area": 365678,
+   "production": 2503782.96,
+   "yield": 68470
+ },
+ {
+   "name": "Democratic Republic of the Congo",
+   "area": 348146,
+   "production": 2290720.16,
+   "yield": 65798
+ },
+ {
+   "name": "Guinea",
+   "area": 330467,
+   "production": 883552.28,
+   "yield": 26736
+ },
+ {
+   "name": "Papua New Guinea",
+   "area": 237770,
+   "production": 3035092.13,
+   "yield": 127648
+ },
+ {
+   "name": "Honduras",
+   "area": 225000,
+   "production": 2124081,
+   "yield": 94404
+ },
+ {
+   "name": "Guatemala",
+   "area": 215000,
+   "production": 3030238.78,
+   "yield": 140941
+ },
+ {
+   "name": "Cameroon",
+   "area": 206624,
+   "production": 2821661.3,
+   "yield": 136560
+ },
+ {
+   "name": "Brazil",
+   "area": 200527,
+   "production": 2952129,
+   "yield": 147219
+ },
+ {
+   "name": "Ecuador",
+   "area": 141381,
+   "production": 2296402.23,
+   "yield": 162426
+ },
+ {
+   "name": "Mexico",
+   "area": 115137,
+   "production": 1619026.88,
+   "yield": 140618
+ },
+ {
+   "name": "Peru",
+   "area": 91947,
+   "production": 1400177.58,
+   "yield": 152281
+ },
+ {
+   "name": "Costa Rica",
+   "area": 71009,
+   "production": 1168132.68,
+   "yield": 164505
+ },
+ {
+   "name": "Togo",
+   "area": 65389,
+   "production": 587949.11,
+   "yield": 89916
+ },
+ {
+   "name": "Philippines",
+   "area": 63381,
+   "production": 533398.52,
+   "yield": 84158
+ },
+ {
+   "name": "Venezuela (Bolivarian Republic of)",
+   "area": 54788,
+   "production": 567615.36,
+   "yield": 103603
+ },
+ {
+   "name": "China",
+   "area": 50737,
+   "production": 670416.44,
+   "yield": 132136
+ },
+ {
+   "name": "China, mainland",
+   "area": 50737,
+   "production": 670416.44,
+   "yield": 132136
+ },
+ {
+   "name": "Sierra Leone",
+   "area": 46991,
+   "production": 359024.43,
+   "yield": 76403
+ },
+ {
+   "name": "Cambodia",
+   "area": 42560,
+   "production": 451135.85,
+   "yield": 105999
+ },
+ {
+   "name": "Benin",
+   "area": 41126,
+   "production": 734370.14,
+   "yield": 178566
+ },
+ {
+   "name": "Nicaragua",
+   "area": 34894,
+   "production": 495594.95,
+   "yield": 142029
+ },
+ {
+   "name": "Solomon Islands",
+   "area": 26000,
+   "production": 363852.15,
+   "yield": 139943
+ },
+ {
+   "name": "Panama",
+   "area": 24716,
+   "production": 250056.63,
+   "yield": 101173
+ },
+ {
+   "name": "Angola",
+   "area": 23259,
+   "production": 281164.65,
+   "yield": 120886
+ },
+ {
+   "name": "Dominican Republic",
+   "area": 23000,
+   "production": 318443.8,
+   "yield": 138454
+ },
+ {
+   "name": "Liberia",
+   "area": 19202,
+   "production": 190388.49,
+   "yield": 99149
+ },
+ {
+   "name": "Paraguay",
+   "area": 15680,
+   "production": 148127.65,
+   "yield": 94470
+ },
+ {
+   "name": "Congo",
+   "area": 12658,
+   "production": 157681.26,
+   "yield": 124566
+ },
+ {
+   "name": "Senegal",
+   "area": 11863,
+   "production": 130885.28,
+   "yield": 110334
+ },
+ {
+   "name": "Guinea-Bissau",
+   "area": 9578,
+   "production": 80878.12,
+   "yield": 84438
+ },
+ {
+   "name": "Burundi",
+   "area": 9154,
+   "production": 88621.41,
+   "yield": 96816
+ },
+ {
+   "name": "Gabon",
+   "area": 7551,
+   "production": 23037.2,
+   "yield": 30508
+ },
+ {
+   "name": "United Republic of Tanzania",
+   "area": 5453,
+   "production": 77104.33,
+   "yield": 141399
+ },
+ {
+   "name": "Equatorial Guinea",
+   "area": 3963,
+   "production": 40689.39,
+   "yield": 102660
+ },
+ {
+   "name": "Gambia",
+   "area": 3516,
+   "production": 35111.96,
+   "yield": 99874
+ },
+ {
+   "name": "Sao Tome and Principe",
+   "area": 1980,
+   "production": 18787.93,
+   "yield": 94871
+ },
+ {
+   "name": "Madagascar",
+   "area": 1814,
+   "production": 21038.96,
+   "yield": 115998
+ },
+ {
+   "name": "Central African Republic",
+   "area": 640,
+   "production": 5885.19,
+   "yield": 91901
+ },
+ {
+   "name": "Suriname",
+   "area": 552,
+   "production": 1100.75,
+   "yield": 19947
+ }
+]
